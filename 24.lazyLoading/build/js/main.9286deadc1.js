@@ -1,0 +1,1 @@
+!function(){"use strict";console.log("test"),console.log("index.js"),document.getElementById("btn").onclick=function(){console.log(8)}}();
